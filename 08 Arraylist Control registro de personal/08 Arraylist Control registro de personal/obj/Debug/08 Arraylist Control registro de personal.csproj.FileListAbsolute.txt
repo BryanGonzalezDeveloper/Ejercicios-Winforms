@@ -1,0 +1,9 @@
+D:\C#\WinForms\WinForms Ejercicios\08 Arraylist Control registro de personal\08 Arraylist Control registro de personal\bin\Debug\08 Arraylist Control registro de personal.exe
+D:\C#\WinForms\WinForms Ejercicios\08 Arraylist Control registro de personal\08 Arraylist Control registro de personal\bin\Debug\08 Arraylist Control registro de personal.pdb
+D:\C#\WinForms\WinForms Ejercicios\08 Arraylist Control registro de personal\08 Arraylist Control registro de personal\obj\Debug\08 Arraylist Control registro de personal.csprojAssemblyReference.cache
+D:\C#\WinForms\WinForms Ejercicios\08 Arraylist Control registro de personal\08 Arraylist Control registro de personal\obj\Debug\_08_Arraylist_Control_registro_de_personal.FrmRegistroPersonal.resources
+D:\C#\WinForms\WinForms Ejercicios\08 Arraylist Control registro de personal\08 Arraylist Control registro de personal\obj\Debug\_08_Arraylist_Control_registro_de_personal.Properties.Resources.resources
+D:\C#\WinForms\WinForms Ejercicios\08 Arraylist Control registro de personal\08 Arraylist Control registro de personal\obj\Debug\08 Arraylist Control registro de personal.csproj.GenerateResource.cache
+D:\C#\WinForms\WinForms Ejercicios\08 Arraylist Control registro de personal\08 Arraylist Control registro de personal\obj\Debug\08 Arraylist Control registro de personal.csproj.CoreCompileInputs.cache
+D:\C#\WinForms\WinForms Ejercicios\08 Arraylist Control registro de personal\08 Arraylist Control registro de personal\obj\Debug\08 Arraylist Control registro de personal.exe
+D:\C#\WinForms\WinForms Ejercicios\08 Arraylist Control registro de personal\08 Arraylist Control registro de personal\obj\Debug\08 Arraylist Control registro de personal.pdb

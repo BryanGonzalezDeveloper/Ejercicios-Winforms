@@ -1,0 +1,9 @@
+D:\C#\WinForms\WinForms Ejercicios\12 Serializacion XML\12 Serializacion XML\bin\Debug\12 Serializacion XML.exe
+D:\C#\WinForms\WinForms Ejercicios\12 Serializacion XML\12 Serializacion XML\bin\Debug\12 Serializacion XML.pdb
+D:\C#\WinForms\WinForms Ejercicios\12 Serializacion XML\12 Serializacion XML\obj\Debug\12 Serializacion XML.csprojAssemblyReference.cache
+D:\C#\WinForms\WinForms Ejercicios\12 Serializacion XML\12 Serializacion XML\obj\Debug\_12_Serializacion_XML.FrmSerializacion.resources
+D:\C#\WinForms\WinForms Ejercicios\12 Serializacion XML\12 Serializacion XML\obj\Debug\_12_Serializacion_XML.Properties.Resources.resources
+D:\C#\WinForms\WinForms Ejercicios\12 Serializacion XML\12 Serializacion XML\obj\Debug\12 Serializacion XML.csproj.GenerateResource.cache
+D:\C#\WinForms\WinForms Ejercicios\12 Serializacion XML\12 Serializacion XML\obj\Debug\12 Serializacion XML.csproj.CoreCompileInputs.cache
+D:\C#\WinForms\WinForms Ejercicios\12 Serializacion XML\12 Serializacion XML\obj\Debug\12 Serializacion XML.exe
+D:\C#\WinForms\WinForms Ejercicios\12 Serializacion XML\12 Serializacion XML\obj\Debug\12 Serializacion XML.pdb

@@ -1,0 +1,10 @@
+D:\C#\WinForms\WinForms Ejercicios\Ejercicios con base de datos\01 Listado clientes\bin\Debug\01 Listado clientes.exe
+D:\C#\WinForms\WinForms Ejercicios\Ejercicios con base de datos\01 Listado clientes\bin\Debug\01 Listado clientes.pdb
+D:\C#\WinForms\WinForms Ejercicios\Ejercicios con base de datos\01 Listado clientes\obj\Debug\01 Listado clientes.csprojAssemblyReference.cache
+D:\C#\WinForms\WinForms Ejercicios\Ejercicios con base de datos\01 Listado clientes\obj\Debug\_01_Listado_clientes.Properties.Resources.resources
+D:\C#\WinForms\WinForms Ejercicios\Ejercicios con base de datos\01 Listado clientes\obj\Debug\01 Listado clientes.csproj.GenerateResource.cache
+D:\C#\WinForms\WinForms Ejercicios\Ejercicios con base de datos\01 Listado clientes\obj\Debug\01 Listado clientes.csproj.CoreCompileInputs.cache
+D:\C#\WinForms\WinForms Ejercicios\Ejercicios con base de datos\01 Listado clientes\obj\Debug\01 Listado clientes.exe
+D:\C#\WinForms\WinForms Ejercicios\Ejercicios con base de datos\01 Listado clientes\obj\Debug\01 Listado clientes.pdb
+D:\C#\WinForms\WinForms Ejercicios\Ejercicios con base de datos\01 Listado clientes\bin\Debug\01 Listado clientes.exe.config
+D:\C#\WinForms\WinForms Ejercicios\Ejercicios con base de datos\01 Listado clientes\obj\Debug\_01_Listado_clientes.FrmListadoClientes.resources

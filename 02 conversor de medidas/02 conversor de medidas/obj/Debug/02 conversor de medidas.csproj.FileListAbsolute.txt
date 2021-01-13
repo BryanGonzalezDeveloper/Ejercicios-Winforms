@@ -1,0 +1,10 @@
+D:\C#\WinForms\WinForms Ejercicios\02 conversor de medidas\02 conversor de medidas\bin\Debug\02 conversor de medidas.exe.config
+D:\C#\WinForms\WinForms Ejercicios\02 conversor de medidas\02 conversor de medidas\bin\Debug\02 conversor de medidas.exe
+D:\C#\WinForms\WinForms Ejercicios\02 conversor de medidas\02 conversor de medidas\bin\Debug\02 conversor de medidas.pdb
+D:\C#\WinForms\WinForms Ejercicios\02 conversor de medidas\02 conversor de medidas\obj\Debug\02 conversor de medidas.csprojAssemblyReference.cache
+D:\C#\WinForms\WinForms Ejercicios\02 conversor de medidas\02 conversor de medidas\obj\Debug\_02_conversor_de_medidas.FrmConvertir.resources
+D:\C#\WinForms\WinForms Ejercicios\02 conversor de medidas\02 conversor de medidas\obj\Debug\_02_conversor_de_medidas.Properties.Resources.resources
+D:\C#\WinForms\WinForms Ejercicios\02 conversor de medidas\02 conversor de medidas\obj\Debug\02 conversor de medidas.csproj.GenerateResource.cache
+D:\C#\WinForms\WinForms Ejercicios\02 conversor de medidas\02 conversor de medidas\obj\Debug\02 conversor de medidas.csproj.CoreCompileInputs.cache
+D:\C#\WinForms\WinForms Ejercicios\02 conversor de medidas\02 conversor de medidas\obj\Debug\02 conversor de medidas.exe
+D:\C#\WinForms\WinForms Ejercicios\02 conversor de medidas\02 conversor de medidas\obj\Debug\02 conversor de medidas.pdb

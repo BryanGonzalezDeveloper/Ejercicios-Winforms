@@ -1,0 +1,9 @@
+D:\C#\WinForms\WinForms Ejercicios\10 Serializacion binario Registro cliente\10 Serializacion binario Registro cliente\bin\Debug\10 Serializacion binario Registro cliente.exe
+D:\C#\WinForms\WinForms Ejercicios\10 Serializacion binario Registro cliente\10 Serializacion binario Registro cliente\bin\Debug\10 Serializacion binario Registro cliente.pdb
+D:\C#\WinForms\WinForms Ejercicios\10 Serializacion binario Registro cliente\10 Serializacion binario Registro cliente\obj\Debug\10 Serializacion binario Registro cliente.csprojAssemblyReference.cache
+D:\C#\WinForms\WinForms Ejercicios\10 Serializacion binario Registro cliente\10 Serializacion binario Registro cliente\obj\Debug\_10_Serializacion_binario_Registro_cliente.frmRegistroCliente.resources
+D:\C#\WinForms\WinForms Ejercicios\10 Serializacion binario Registro cliente\10 Serializacion binario Registro cliente\obj\Debug\_10_Serializacion_binario_Registro_cliente.Properties.Resources.resources
+D:\C#\WinForms\WinForms Ejercicios\10 Serializacion binario Registro cliente\10 Serializacion binario Registro cliente\obj\Debug\10 Serializacion binario Registro cliente.csproj.GenerateResource.cache
+D:\C#\WinForms\WinForms Ejercicios\10 Serializacion binario Registro cliente\10 Serializacion binario Registro cliente\obj\Debug\10 Serializacion binario Registro cliente.csproj.CoreCompileInputs.cache
+D:\C#\WinForms\WinForms Ejercicios\10 Serializacion binario Registro cliente\10 Serializacion binario Registro cliente\obj\Debug\10 Serializacion binario Registro cliente.exe
+D:\C#\WinForms\WinForms Ejercicios\10 Serializacion binario Registro cliente\10 Serializacion binario Registro cliente\obj\Debug\10 Serializacion binario Registro cliente.pdb

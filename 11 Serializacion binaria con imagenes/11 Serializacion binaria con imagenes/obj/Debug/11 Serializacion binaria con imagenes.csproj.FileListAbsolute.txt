@@ -1,0 +1,9 @@
+D:\C#\WinForms\WinForms Ejercicios\11 Serializacion binaria con imagenes\11 Serializacion binaria con imagenes\bin\Debug\11 Serializacion binaria con imagenes.exe
+D:\C#\WinForms\WinForms Ejercicios\11 Serializacion binaria con imagenes\11 Serializacion binaria con imagenes\bin\Debug\11 Serializacion binaria con imagenes.pdb
+D:\C#\WinForms\WinForms Ejercicios\11 Serializacion binaria con imagenes\11 Serializacion binaria con imagenes\obj\Debug\11 Serializacion binaria con imagenes.csprojAssemblyReference.cache
+D:\C#\WinForms\WinForms Ejercicios\11 Serializacion binaria con imagenes\11 Serializacion binaria con imagenes\obj\Debug\_11_Serializacion_binaria_con_imagenes.FrmSerializacion.resources
+D:\C#\WinForms\WinForms Ejercicios\11 Serializacion binaria con imagenes\11 Serializacion binaria con imagenes\obj\Debug\_11_Serializacion_binaria_con_imagenes.Properties.Resources.resources
+D:\C#\WinForms\WinForms Ejercicios\11 Serializacion binaria con imagenes\11 Serializacion binaria con imagenes\obj\Debug\11 Serializacion binaria con imagenes.csproj.GenerateResource.cache
+D:\C#\WinForms\WinForms Ejercicios\11 Serializacion binaria con imagenes\11 Serializacion binaria con imagenes\obj\Debug\11 Serializacion binaria con imagenes.csproj.CoreCompileInputs.cache
+D:\C#\WinForms\WinForms Ejercicios\11 Serializacion binaria con imagenes\11 Serializacion binaria con imagenes\obj\Debug\11 Serializacion binaria con imagenes.exe
+D:\C#\WinForms\WinForms Ejercicios\11 Serializacion binaria con imagenes\11 Serializacion binaria con imagenes\obj\Debug\11 Serializacion binaria con imagenes.pdb

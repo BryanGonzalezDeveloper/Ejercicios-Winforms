@@ -1,0 +1,14 @@
+D:\C#\WinForms\WinForms Ejercicios\Leer Archivo Csv\Leer Archivo Csv\bin\Debug\Leer Archivo Csv.exe.config
+D:\C#\WinForms\WinForms Ejercicios\Leer Archivo Csv\Leer Archivo Csv\bin\Debug\Leer Archivo Csv.exe
+D:\C#\WinForms\WinForms Ejercicios\Leer Archivo Csv\Leer Archivo Csv\bin\Debug\Leer Archivo Csv.pdb
+D:\C#\WinForms\WinForms Ejercicios\Leer Archivo Csv\Leer Archivo Csv\bin\Debug\LumenWorks.Framework.IO.dll
+D:\C#\WinForms\WinForms Ejercicios\Leer Archivo Csv\Leer Archivo Csv\bin\Debug\LumenWorks.Framework.IO.pdb
+D:\C#\WinForms\WinForms Ejercicios\Leer Archivo Csv\Leer Archivo Csv\bin\Debug\LumenWorks.Framework.IO.xml
+D:\C#\WinForms\WinForms Ejercicios\Leer Archivo Csv\Leer Archivo Csv\obj\Debug\Leer Archivo Csv.csprojAssemblyReference.cache
+D:\C#\WinForms\WinForms Ejercicios\Leer Archivo Csv\Leer Archivo Csv\obj\Debug\Leer_Archivo_Csv.FrmLeerCSV.resources
+D:\C#\WinForms\WinForms Ejercicios\Leer Archivo Csv\Leer Archivo Csv\obj\Debug\Leer_Archivo_Csv.Properties.Resources.resources
+D:\C#\WinForms\WinForms Ejercicios\Leer Archivo Csv\Leer Archivo Csv\obj\Debug\Leer Archivo Csv.csproj.GenerateResource.cache
+D:\C#\WinForms\WinForms Ejercicios\Leer Archivo Csv\Leer Archivo Csv\obj\Debug\Leer Archivo Csv.csproj.CoreCompileInputs.cache
+D:\C#\WinForms\WinForms Ejercicios\Leer Archivo Csv\Leer Archivo Csv\obj\Debug\Leer Archivo Csv.csproj.CopyComplete
+D:\C#\WinForms\WinForms Ejercicios\Leer Archivo Csv\Leer Archivo Csv\obj\Debug\Leer Archivo Csv.exe
+D:\C#\WinForms\WinForms Ejercicios\Leer Archivo Csv\Leer Archivo Csv\obj\Debug\Leer Archivo Csv.pdb

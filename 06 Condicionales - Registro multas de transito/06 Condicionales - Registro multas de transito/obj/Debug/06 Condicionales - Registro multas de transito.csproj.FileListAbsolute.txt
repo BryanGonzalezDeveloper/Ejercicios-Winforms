@@ -1,0 +1,9 @@
+D:\C#\WinForms\WinForms Ejercicios\06 Condicionales - Registro multas de transito\06 Condicionales - Registro multas de transito\bin\Debug\06 Condicionales - Registro multas de transito.exe
+D:\C#\WinForms\WinForms Ejercicios\06 Condicionales - Registro multas de transito\06 Condicionales - Registro multas de transito\bin\Debug\06 Condicionales - Registro multas de transito.pdb
+D:\C#\WinForms\WinForms Ejercicios\06 Condicionales - Registro multas de transito\06 Condicionales - Registro multas de transito\obj\Debug\06 Condicionales - Registro multas de transito.csprojAssemblyReference.cache
+D:\C#\WinForms\WinForms Ejercicios\06 Condicionales - Registro multas de transito\06 Condicionales - Registro multas de transito\obj\Debug\_06_Condicionales___Registro_multas_de_transito.FrmMulta.resources
+D:\C#\WinForms\WinForms Ejercicios\06 Condicionales - Registro multas de transito\06 Condicionales - Registro multas de transito\obj\Debug\_06_Condicionales___Registro_multas_de_transito.Properties.Resources.resources
+D:\C#\WinForms\WinForms Ejercicios\06 Condicionales - Registro multas de transito\06 Condicionales - Registro multas de transito\obj\Debug\06 Condicionales - Registro multas de transito.csproj.GenerateResource.cache
+D:\C#\WinForms\WinForms Ejercicios\06 Condicionales - Registro multas de transito\06 Condicionales - Registro multas de transito\obj\Debug\06 Condicionales - Registro multas de transito.csproj.CoreCompileInputs.cache
+D:\C#\WinForms\WinForms Ejercicios\06 Condicionales - Registro multas de transito\06 Condicionales - Registro multas de transito\obj\Debug\06 Condicionales - Registro multas de transito.exe
+D:\C#\WinForms\WinForms Ejercicios\06 Condicionales - Registro multas de transito\06 Condicionales - Registro multas de transito\obj\Debug\06 Condicionales - Registro multas de transito.pdb

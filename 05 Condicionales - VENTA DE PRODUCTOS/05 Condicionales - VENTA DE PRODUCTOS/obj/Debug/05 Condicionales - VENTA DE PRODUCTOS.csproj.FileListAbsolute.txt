@@ -1,0 +1,9 @@
+D:\C#\WinForms\WinForms Ejercicios\05 Condicionales - VENTA DE PRODUCTOS\05 Condicionales - VENTA DE PRODUCTOS\bin\Debug\05 Condicionales - VENTA DE PRODUCTOS.exe
+D:\C#\WinForms\WinForms Ejercicios\05 Condicionales - VENTA DE PRODUCTOS\05 Condicionales - VENTA DE PRODUCTOS\bin\Debug\05 Condicionales - VENTA DE PRODUCTOS.pdb
+D:\C#\WinForms\WinForms Ejercicios\05 Condicionales - VENTA DE PRODUCTOS\05 Condicionales - VENTA DE PRODUCTOS\obj\Debug\05 Condicionales - VENTA DE PRODUCTOS.csprojAssemblyReference.cache
+D:\C#\WinForms\WinForms Ejercicios\05 Condicionales - VENTA DE PRODUCTOS\05 Condicionales - VENTA DE PRODUCTOS\obj\Debug\_05_Condicionales___VENTA_DE_PRODUCTOS.FrmVenta.resources
+D:\C#\WinForms\WinForms Ejercicios\05 Condicionales - VENTA DE PRODUCTOS\05 Condicionales - VENTA DE PRODUCTOS\obj\Debug\_05_Condicionales___VENTA_DE_PRODUCTOS.Properties.Resources.resources
+D:\C#\WinForms\WinForms Ejercicios\05 Condicionales - VENTA DE PRODUCTOS\05 Condicionales - VENTA DE PRODUCTOS\obj\Debug\05 Condicionales - VENTA DE PRODUCTOS.csproj.GenerateResource.cache
+D:\C#\WinForms\WinForms Ejercicios\05 Condicionales - VENTA DE PRODUCTOS\05 Condicionales - VENTA DE PRODUCTOS\obj\Debug\05 Condicionales - VENTA DE PRODUCTOS.csproj.CoreCompileInputs.cache
+D:\C#\WinForms\WinForms Ejercicios\05 Condicionales - VENTA DE PRODUCTOS\05 Condicionales - VENTA DE PRODUCTOS\obj\Debug\05 Condicionales - VENTA DE PRODUCTOS.exe
+D:\C#\WinForms\WinForms Ejercicios\05 Condicionales - VENTA DE PRODUCTOS\05 Condicionales - VENTA DE PRODUCTOS\obj\Debug\05 Condicionales - VENTA DE PRODUCTOS.pdb

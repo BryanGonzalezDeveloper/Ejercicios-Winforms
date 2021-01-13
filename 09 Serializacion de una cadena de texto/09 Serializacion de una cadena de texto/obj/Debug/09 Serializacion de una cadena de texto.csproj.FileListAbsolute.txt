@@ -1,0 +1,9 @@
+D:\C#\WinForms\WinForms Ejercicios\09 Serializacion de una cadena de texto\09 Serializacion de una cadena de texto\bin\Debug\09 Serializacion de una cadena de texto.exe
+D:\C#\WinForms\WinForms Ejercicios\09 Serializacion de una cadena de texto\09 Serializacion de una cadena de texto\bin\Debug\09 Serializacion de una cadena de texto.pdb
+D:\C#\WinForms\WinForms Ejercicios\09 Serializacion de una cadena de texto\09 Serializacion de una cadena de texto\obj\Debug\09 Serializacion de una cadena de texto.csprojAssemblyReference.cache
+D:\C#\WinForms\WinForms Ejercicios\09 Serializacion de una cadena de texto\09 Serializacion de una cadena de texto\obj\Debug\_09_Serializacion_de_una_cadena_de_texto.Properties.Resources.resources
+D:\C#\WinForms\WinForms Ejercicios\09 Serializacion de una cadena de texto\09 Serializacion de una cadena de texto\obj\Debug\09 Serializacion de una cadena de texto.csproj.GenerateResource.cache
+D:\C#\WinForms\WinForms Ejercicios\09 Serializacion de una cadena de texto\09 Serializacion de una cadena de texto\obj\Debug\09 Serializacion de una cadena de texto.csproj.CoreCompileInputs.cache
+D:\C#\WinForms\WinForms Ejercicios\09 Serializacion de una cadena de texto\09 Serializacion de una cadena de texto\obj\Debug\09 Serializacion de una cadena de texto.exe
+D:\C#\WinForms\WinForms Ejercicios\09 Serializacion de una cadena de texto\09 Serializacion de una cadena de texto\obj\Debug\09 Serializacion de una cadena de texto.pdb
+D:\C#\WinForms\WinForms Ejercicios\09 Serializacion de una cadena de texto\09 Serializacion de una cadena de texto\obj\Debug\_09_Serializacion_de_una_cadena_de_texto.FrmSerializacion.resources

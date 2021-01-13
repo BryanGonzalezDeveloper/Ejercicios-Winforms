@@ -1,0 +1,9 @@
+D:\C#\WinForms\WinForms Ejercicios\04 IF control emision de documentos ejercicio\04 IF control emision de documentos ejercicio\bin\Debug\04 IF control emision de documentos ejercicio.exe
+D:\C#\WinForms\WinForms Ejercicios\04 IF control emision de documentos ejercicio\04 IF control emision de documentos ejercicio\bin\Debug\04 IF control emision de documentos ejercicio.pdb
+D:\C#\WinForms\WinForms Ejercicios\04 IF control emision de documentos ejercicio\04 IF control emision de documentos ejercicio\obj\Debug\04 IF control emision de documentos ejercicio.csprojAssemblyReference.cache
+D:\C#\WinForms\WinForms Ejercicios\04 IF control emision de documentos ejercicio\04 IF control emision de documentos ejercicio\obj\Debug\_04_IF_control_emision_de_documentos_ejercicio.FrmControlDocumentos.resources
+D:\C#\WinForms\WinForms Ejercicios\04 IF control emision de documentos ejercicio\04 IF control emision de documentos ejercicio\obj\Debug\_04_IF_control_emision_de_documentos_ejercicio.Properties.Resources.resources
+D:\C#\WinForms\WinForms Ejercicios\04 IF control emision de documentos ejercicio\04 IF control emision de documentos ejercicio\obj\Debug\04 IF control emision de documentos ejercicio.csproj.GenerateResource.cache
+D:\C#\WinForms\WinForms Ejercicios\04 IF control emision de documentos ejercicio\04 IF control emision de documentos ejercicio\obj\Debug\04 IF control emision de documentos ejercicio.csproj.CoreCompileInputs.cache
+D:\C#\WinForms\WinForms Ejercicios\04 IF control emision de documentos ejercicio\04 IF control emision de documentos ejercicio\obj\Debug\04 IF control emision de documentos ejercicio.exe
+D:\C#\WinForms\WinForms Ejercicios\04 IF control emision de documentos ejercicio\04 IF control emision de documentos ejercicio\obj\Debug\04 IF control emision de documentos ejercicio.pdb

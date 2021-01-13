@@ -1,0 +1,11 @@
+D:\C#\WinForms\WinForms Ejercicios\Envio de correo electronico\Envio de correo electronico\bin\Debug\Envio de correo electronico.exe.config
+D:\C#\WinForms\WinForms Ejercicios\Envio de correo electronico\Envio de correo electronico\bin\Debug\Envio de correo electronico.exe
+D:\C#\WinForms\WinForms Ejercicios\Envio de correo electronico\Envio de correo electronico\bin\Debug\Envio de correo electronico.pdb
+D:\C#\WinForms\WinForms Ejercicios\Envio de correo electronico\Envio de correo electronico\obj\Debug\Envio de correo electronico.csprojAssemblyReference.cache
+D:\C#\WinForms\WinForms Ejercicios\Envio de correo electronico\Envio de correo electronico\obj\Debug\Envio_de_correo_electronico.FrmAutenticacion.resources
+D:\C#\WinForms\WinForms Ejercicios\Envio de correo electronico\Envio de correo electronico\obj\Debug\Envio_de_correo_electronico.FrmEnvioCorreo.resources
+D:\C#\WinForms\WinForms Ejercicios\Envio de correo electronico\Envio de correo electronico\obj\Debug\Envio_de_correo_electronico.Properties.Resources.resources
+D:\C#\WinForms\WinForms Ejercicios\Envio de correo electronico\Envio de correo electronico\obj\Debug\Envio de correo electronico.csproj.GenerateResource.cache
+D:\C#\WinForms\WinForms Ejercicios\Envio de correo electronico\Envio de correo electronico\obj\Debug\Envio de correo electronico.csproj.CoreCompileInputs.cache
+D:\C#\WinForms\WinForms Ejercicios\Envio de correo electronico\Envio de correo electronico\obj\Debug\Envio de correo electronico.exe
+D:\C#\WinForms\WinForms Ejercicios\Envio de correo electronico\Envio de correo electronico\obj\Debug\Envio de correo electronico.pdb

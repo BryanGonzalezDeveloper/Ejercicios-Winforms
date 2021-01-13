@@ -1,0 +1,9 @@
+D:\C#\WinForms\WinForms Ejercicios\Abrir archivo sql\Abrir archivo sql\bin\Debug\Abrir archivo sql.exe
+D:\C#\WinForms\WinForms Ejercicios\Abrir archivo sql\Abrir archivo sql\bin\Debug\Abrir archivo sql.pdb
+D:\C#\WinForms\WinForms Ejercicios\Abrir archivo sql\Abrir archivo sql\obj\Debug\Abrir archivo sql.csprojAssemblyReference.cache
+D:\C#\WinForms\WinForms Ejercicios\Abrir archivo sql\Abrir archivo sql\obj\Debug\Abrir_archivo_sql.Form1.resources
+D:\C#\WinForms\WinForms Ejercicios\Abrir archivo sql\Abrir archivo sql\obj\Debug\Abrir_archivo_sql.Properties.Resources.resources
+D:\C#\WinForms\WinForms Ejercicios\Abrir archivo sql\Abrir archivo sql\obj\Debug\Abrir archivo sql.csproj.GenerateResource.cache
+D:\C#\WinForms\WinForms Ejercicios\Abrir archivo sql\Abrir archivo sql\obj\Debug\Abrir archivo sql.csproj.CoreCompileInputs.cache
+D:\C#\WinForms\WinForms Ejercicios\Abrir archivo sql\Abrir archivo sql\obj\Debug\Abrir archivo sql.exe
+D:\C#\WinForms\WinForms Ejercicios\Abrir archivo sql\Abrir archivo sql\obj\Debug\Abrir archivo sql.pdb

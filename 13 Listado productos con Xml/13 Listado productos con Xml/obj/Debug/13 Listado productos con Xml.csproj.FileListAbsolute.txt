@@ -1,0 +1,9 @@
+D:\C#\WinForms\WinForms Ejercicios\13 Listado productos con Xml\13 Listado productos con Xml\bin\Debug\13 Listado productos con Xml.exe
+D:\C#\WinForms\WinForms Ejercicios\13 Listado productos con Xml\13 Listado productos con Xml\bin\Debug\13 Listado productos con Xml.pdb
+D:\C#\WinForms\WinForms Ejercicios\13 Listado productos con Xml\13 Listado productos con Xml\obj\Debug\13 Listado productos con Xml.csprojAssemblyReference.cache
+D:\C#\WinForms\WinForms Ejercicios\13 Listado productos con Xml\13 Listado productos con Xml\obj\Debug\_13_Listado_productos_con_Xml.FrmListadoXml.resources
+D:\C#\WinForms\WinForms Ejercicios\13 Listado productos con Xml\13 Listado productos con Xml\obj\Debug\_13_Listado_productos_con_Xml.Properties.Resources.resources
+D:\C#\WinForms\WinForms Ejercicios\13 Listado productos con Xml\13 Listado productos con Xml\obj\Debug\13 Listado productos con Xml.csproj.GenerateResource.cache
+D:\C#\WinForms\WinForms Ejercicios\13 Listado productos con Xml\13 Listado productos con Xml\obj\Debug\13 Listado productos con Xml.csproj.CoreCompileInputs.cache
+D:\C#\WinForms\WinForms Ejercicios\13 Listado productos con Xml\13 Listado productos con Xml\obj\Debug\13 Listado productos con Xml.exe
+D:\C#\WinForms\WinForms Ejercicios\13 Listado productos con Xml\13 Listado productos con Xml\obj\Debug\13 Listado productos con Xml.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07 Condicionales - Registro de estudiantes", "07 Condicionales - Registro de estudiantes\07 Condicionales - Registro de estudiantes.csproj", "{DEE55247-B601-4B88-956A-05D1E6D8E825}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEE55247-B601-4B88-956A-05D1E6D8E825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE55247-B601-4B88-956A-05D1E6D8E825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE55247-B601-4B88-956A-05D1E6D8E825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE55247-B601-4B88-956A-05D1E6D8E825}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC72F469-63BF-42E6-974E-BB963455189D}
+	EndGlobalSection
+EndGlobal

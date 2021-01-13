@@ -1,0 +1,9 @@
+D:\C#\WinForms\WinForms Ejercicios\_07 Condicionales _Registro de estudiantes\07 Condicionales - Registro de estudiantes\bin\Debug\07 Condicionales - Registro de estudiantes.exe
+D:\C#\WinForms\WinForms Ejercicios\_07 Condicionales _Registro de estudiantes\07 Condicionales - Registro de estudiantes\bin\Debug\07 Condicionales - Registro de estudiantes.pdb
+D:\C#\WinForms\WinForms Ejercicios\_07 Condicionales _Registro de estudiantes\07 Condicionales - Registro de estudiantes\obj\Debug\07 Condicionales - Registro de estudiantes.csprojAssemblyReference.cache
+D:\C#\WinForms\WinForms Ejercicios\_07 Condicionales _Registro de estudiantes\07 Condicionales - Registro de estudiantes\obj\Debug\_07_Condicionales___Registro_de_estudiantes.Form1.resources
+D:\C#\WinForms\WinForms Ejercicios\_07 Condicionales _Registro de estudiantes\07 Condicionales - Registro de estudiantes\obj\Debug\_07_Condicionales___Registro_de_estudiantes.Properties.Resources.resources
+D:\C#\WinForms\WinForms Ejercicios\_07 Condicionales _Registro de estudiantes\07 Condicionales - Registro de estudiantes\obj\Debug\07 Condicionales - Registro de estudiantes.csproj.GenerateResource.cache
+D:\C#\WinForms\WinForms Ejercicios\_07 Condicionales _Registro de estudiantes\07 Condicionales - Registro de estudiantes\obj\Debug\07 Condicionales - Registro de estudiantes.csproj.CoreCompileInputs.cache
+D:\C#\WinForms\WinForms Ejercicios\_07 Condicionales _Registro de estudiantes\07 Condicionales - Registro de estudiantes\obj\Debug\07 Condicionales - Registro de estudiantes.exe
+D:\C#\WinForms\WinForms Ejercicios\_07 Condicionales _Registro de estudiantes\07 Condicionales - Registro de estudiantes\obj\Debug\07 Condicionales - Registro de estudiantes.pdb

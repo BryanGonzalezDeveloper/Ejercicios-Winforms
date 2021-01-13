@@ -1,0 +1,10 @@
+D:\C#\WinForms\WinForms Ejercicios\03 Uso del IF pago empleados\03 Uso del IF pago empleados\bin\Debug\03 Uso del IF pago empleados.exe.config
+D:\C#\WinForms\WinForms Ejercicios\03 Uso del IF pago empleados\03 Uso del IF pago empleados\bin\Debug\03 Uso del IF pago empleados.exe
+D:\C#\WinForms\WinForms Ejercicios\03 Uso del IF pago empleados\03 Uso del IF pago empleados\bin\Debug\03 Uso del IF pago empleados.pdb
+D:\C#\WinForms\WinForms Ejercicios\03 Uso del IF pago empleados\03 Uso del IF pago empleados\obj\Debug\03 Uso del IF pago empleados.csprojAssemblyReference.cache
+D:\C#\WinForms\WinForms Ejercicios\03 Uso del IF pago empleados\03 Uso del IF pago empleados\obj\Debug\_03_Uso_del_IF_pago_empleados.Form1.resources
+D:\C#\WinForms\WinForms Ejercicios\03 Uso del IF pago empleados\03 Uso del IF pago empleados\obj\Debug\_03_Uso_del_IF_pago_empleados.Properties.Resources.resources
+D:\C#\WinForms\WinForms Ejercicios\03 Uso del IF pago empleados\03 Uso del IF pago empleados\obj\Debug\03 Uso del IF pago empleados.csproj.GenerateResource.cache
+D:\C#\WinForms\WinForms Ejercicios\03 Uso del IF pago empleados\03 Uso del IF pago empleados\obj\Debug\03 Uso del IF pago empleados.csproj.CoreCompileInputs.cache
+D:\C#\WinForms\WinForms Ejercicios\03 Uso del IF pago empleados\03 Uso del IF pago empleados\obj\Debug\03 Uso del IF pago empleados.exe
+D:\C#\WinForms\WinForms Ejercicios\03 Uso del IF pago empleados\03 Uso del IF pago empleados\obj\Debug\03 Uso del IF pago empleados.pdb
