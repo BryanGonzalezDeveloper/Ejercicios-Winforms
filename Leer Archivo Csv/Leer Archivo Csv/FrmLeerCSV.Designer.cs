@@ -65,6 +65,8 @@ namespace Leer_Archivo_Csv
             // 
             // dgvCSV
             // 
+            this.dgvCSV.AllowUserToAddRows = false;
+            this.dgvCSV.AllowUserToDeleteRows = false;
             this.dgvCSV.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
             this.dgvCSV.BackgroundColor = System.Drawing.Color.White;
             this.dgvCSV.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
@@ -128,6 +130,7 @@ namespace Leer_Archivo_Csv
             this.btnCerrar.TabIndex = 3;
             this.btnCerrar.Text = "Salir de la aplicacion.";
             this.btnCerrar.UseVisualStyleBackColor = true;
+            this.btnCerrar.Click += new System.EventHandler(this.btnCerrar_Click);
             // 
             // FrmLeerCSV
             // 
@@ -141,7 +144,6 @@ namespace Leer_Archivo_Csv
             this.Controls.Add(this.panel1);
             this.Name = "FrmLeerCSV";
             this.Text = "LEER ARCHIVO CSV";
-            this.Load += new System.EventHandler(this.FrmLeerCSV_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvCSV)).EndInit();

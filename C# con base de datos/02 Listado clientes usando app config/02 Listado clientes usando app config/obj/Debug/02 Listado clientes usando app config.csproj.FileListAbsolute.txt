@@ -1,0 +1,10 @@
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\02 Listado clientes usando app config\02 Listado clientes usando app config\bin\Debug\02 Listado clientes usando app config.exe.config
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\02 Listado clientes usando app config\02 Listado clientes usando app config\bin\Debug\02 Listado clientes usando app config.exe
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\02 Listado clientes usando app config\02 Listado clientes usando app config\bin\Debug\02 Listado clientes usando app config.pdb
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\02 Listado clientes usando app config\02 Listado clientes usando app config\obj\Debug\02 Listado clientes usando app config.csprojAssemblyReference.cache
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\02 Listado clientes usando app config\02 Listado clientes usando app config\obj\Debug\_02_Listado_clientes_usando_app_config.FrmListado.resources
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\02 Listado clientes usando app config\02 Listado clientes usando app config\obj\Debug\_02_Listado_clientes_usando_app_config.Properties.Resources.resources
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\02 Listado clientes usando app config\02 Listado clientes usando app config\obj\Debug\02 Listado clientes usando app config.csproj.GenerateResource.cache
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\02 Listado clientes usando app config\02 Listado clientes usando app config\obj\Debug\02 Listado clientes usando app config.csproj.CoreCompileInputs.cache
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\02 Listado clientes usando app config\02 Listado clientes usando app config\obj\Debug\02 Listado clientes usando app config.exe
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\02 Listado clientes usando app config\02 Listado clientes usando app config\obj\Debug\02 Listado clientes usando app config.pdb

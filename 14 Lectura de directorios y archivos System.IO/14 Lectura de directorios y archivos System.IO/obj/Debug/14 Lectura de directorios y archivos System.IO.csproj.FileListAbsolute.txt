@@ -1,0 +1,10 @@
+D:\C#\WinForms\WinForms Ejercicios\14 Lectura de directorios y archivos System.IO\14 Lectura de directorios y archivos System.IO\bin\Debug\14 Lectura de directorios y archivos System.IO.exe.config
+D:\C#\WinForms\WinForms Ejercicios\14 Lectura de directorios y archivos System.IO\14 Lectura de directorios y archivos System.IO\bin\Debug\14 Lectura de directorios y archivos System.IO.exe
+D:\C#\WinForms\WinForms Ejercicios\14 Lectura de directorios y archivos System.IO\14 Lectura de directorios y archivos System.IO\bin\Debug\14 Lectura de directorios y archivos System.IO.pdb
+D:\C#\WinForms\WinForms Ejercicios\14 Lectura de directorios y archivos System.IO\14 Lectura de directorios y archivos System.IO\obj\Debug\14 Lectura de directorios y archivos System.IO.csprojAssemblyReference.cache
+D:\C#\WinForms\WinForms Ejercicios\14 Lectura de directorios y archivos System.IO\14 Lectura de directorios y archivos System.IO\obj\Debug\_14_Lectura_de_directorios_y_archivos_System.IO.FrmInformacionArchivos.resources
+D:\C#\WinForms\WinForms Ejercicios\14 Lectura de directorios y archivos System.IO\14 Lectura de directorios y archivos System.IO\obj\Debug\_14_Lectura_de_directorios_y_archivos_System.IO.Properties.Resources.resources
+D:\C#\WinForms\WinForms Ejercicios\14 Lectura de directorios y archivos System.IO\14 Lectura de directorios y archivos System.IO\obj\Debug\14 Lectura de directorios y archivos System.IO.csproj.GenerateResource.cache
+D:\C#\WinForms\WinForms Ejercicios\14 Lectura de directorios y archivos System.IO\14 Lectura de directorios y archivos System.IO\obj\Debug\14 Lectura de directorios y archivos System.IO.csproj.CoreCompileInputs.cache
+D:\C#\WinForms\WinForms Ejercicios\14 Lectura de directorios y archivos System.IO\14 Lectura de directorios y archivos System.IO\obj\Debug\14 Lectura de directorios y archivos System.IO.exe
+D:\C#\WinForms\WinForms Ejercicios\14 Lectura de directorios y archivos System.IO\14 Lectura de directorios y archivos System.IO\obj\Debug\14 Lectura de directorios y archivos System.IO.pdb

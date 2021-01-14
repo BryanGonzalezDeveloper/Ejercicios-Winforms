@@ -30,9 +30,11 @@ namespace Leer_Archivo_Csv
             }
         }
 
-        private void FrmLeerCSV_Load(object sender, EventArgs e)
+        private void btnCerrar_Click(object sender, EventArgs e)
         {
-
+           if(MessageBox.Show("Seguro que desea salir?","CERRAR APLICACION",MessageBoxButtons.YesNo,MessageBoxIcon.Question)
+                ==DialogResult.Yes)
+            this.Close();
         }
     }
 }

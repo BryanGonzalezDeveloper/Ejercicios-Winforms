@@ -1,0 +1,10 @@
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\03 Listado de contratistas con dataset\03 Listado de contratistas con dataset\bin\Debug\03 Listado de contratistas con dataset.exe.config
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\03 Listado de contratistas con dataset\03 Listado de contratistas con dataset\bin\Debug\03 Listado de contratistas con dataset.exe
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\03 Listado de contratistas con dataset\03 Listado de contratistas con dataset\bin\Debug\03 Listado de contratistas con dataset.pdb
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\03 Listado de contratistas con dataset\03 Listado de contratistas con dataset\obj\Debug\03 Listado de contratistas con dataset.csprojAssemblyReference.cache
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\03 Listado de contratistas con dataset\03 Listado de contratistas con dataset\obj\Debug\_03_Listado_de_contratistas_con_dataset.FrmListadoContratistas.resources
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\03 Listado de contratistas con dataset\03 Listado de contratistas con dataset\obj\Debug\_03_Listado_de_contratistas_con_dataset.Properties.Resources.resources
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\03 Listado de contratistas con dataset\03 Listado de contratistas con dataset\obj\Debug\03 Listado de contratistas con dataset.csproj.GenerateResource.cache
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\03 Listado de contratistas con dataset\03 Listado de contratistas con dataset\obj\Debug\03 Listado de contratistas con dataset.csproj.CoreCompileInputs.cache
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\03 Listado de contratistas con dataset\03 Listado de contratistas con dataset\obj\Debug\03 Listado de contratistas con dataset.exe
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\03 Listado de contratistas con dataset\03 Listado de contratistas con dataset\obj\Debug\03 Listado de contratistas con dataset.pdb
