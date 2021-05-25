@@ -1,0 +1,10 @@
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\04 Listado de equipos\04 Listado de equipos\bin\Debug\04 Listado de equipos.exe.config
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\04 Listado de equipos\04 Listado de equipos\bin\Debug\04 Listado de equipos.exe
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\04 Listado de equipos\04 Listado de equipos\bin\Debug\04 Listado de equipos.pdb
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\04 Listado de equipos\04 Listado de equipos\obj\Debug\04 Listado de equipos.csprojAssemblyReference.cache
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\04 Listado de equipos\04 Listado de equipos\obj\Debug\_04_Listado_de_equipos.FrmListadoEquipos.resources
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\04 Listado de equipos\04 Listado de equipos\obj\Debug\_04_Listado_de_equipos.Properties.Resources.resources
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\04 Listado de equipos\04 Listado de equipos\obj\Debug\04 Listado de equipos.csproj.GenerateResource.cache
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\04 Listado de equipos\04 Listado de equipos\obj\Debug\04 Listado de equipos.csproj.CoreCompileInputs.cache
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\04 Listado de equipos\04 Listado de equipos\obj\Debug\04 Listado de equipos.exe
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\04 Listado de equipos\04 Listado de equipos\obj\Debug\04 Listado de equipos.pdb

@@ -1,0 +1,11 @@
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\05 Operaciones de lectura\05 Operaciones de lectura\bin\Debug\05 Operaciones de lectura.exe.config
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\05 Operaciones de lectura\05 Operaciones de lectura\bin\Debug\05 Operaciones de lectura.exe
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\05 Operaciones de lectura\05 Operaciones de lectura\bin\Debug\05 Operaciones de lectura.pdb
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\05 Operaciones de lectura\05 Operaciones de lectura\obj\Debug\05 Operaciones de lectura.csprojAssemblyReference.cache
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\05 Operaciones de lectura\05 Operaciones de lectura\obj\Debug\_05_Operaciones_de_lectura.Form1.resources
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\05 Operaciones de lectura\05 Operaciones de lectura\obj\Debug\_05_Operaciones_de_lectura.Properties.Resources.resources
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\05 Operaciones de lectura\05 Operaciones de lectura\obj\Debug\05 Operaciones de lectura.csproj.GenerateResource.cache
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\05 Operaciones de lectura\05 Operaciones de lectura\obj\Debug\05 Operaciones de lectura.csproj.CoreCompileInputs.cache
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\05 Operaciones de lectura\05 Operaciones de lectura\obj\Debug\05 Operaciones de lectura.exe
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\05 Operaciones de lectura\05 Operaciones de lectura\obj\Debug\05 Operaciones de lectura.pdb
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\05 Operaciones de lectura\05 Operaciones de lectura\obj\Debug\_05_Operaciones_de_lectura.FrmTransacciones.resources

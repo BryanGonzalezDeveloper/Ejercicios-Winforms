@@ -1,0 +1,10 @@
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\06Transacciones sql\06Transacciones sql\bin\Debug\06Transacciones sql.exe.config
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\06Transacciones sql\06Transacciones sql\bin\Debug\06Transacciones sql.exe
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\06Transacciones sql\06Transacciones sql\bin\Debug\06Transacciones sql.pdb
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\06Transacciones sql\06Transacciones sql\obj\Debug\06Transacciones sql.csprojAssemblyReference.cache
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\06Transacciones sql\06Transacciones sql\obj\Debug\_06Transacciones_sql.Form1.resources
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\06Transacciones sql\06Transacciones sql\obj\Debug\_06Transacciones_sql.Properties.Resources.resources
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\06Transacciones sql\06Transacciones sql\obj\Debug\06Transacciones sql.csproj.GenerateResource.cache
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\06Transacciones sql\06Transacciones sql\obj\Debug\06Transacciones sql.csproj.CoreCompileInputs.cache
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\06Transacciones sql\06Transacciones sql\obj\Debug\06Transacciones sql.exe
+D:\C#\WinForms\WinForms Ejercicios\C# con base de datos\06Transacciones sql\06Transacciones sql\obj\Debug\06Transacciones sql.pdb
